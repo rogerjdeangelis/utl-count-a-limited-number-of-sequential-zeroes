@@ -71,7 +71,7 @@ Count a limited number of sequential zeroes
                                                                                                                     
         y       0  |   3       .      We have a zero but not 2 subsequent 0s                                        
         y       5  |           .                                                                                    
-        y       0  |           1      We have a zero and 3 0s so start counter                                      
+        y       0  |           1      We have a zero and 3 0s                                    
         y       0  |           2                                                                                    
         y       0  |           3                                                                                    
         y       0  |           .      Over the limit so set to missing                                              
